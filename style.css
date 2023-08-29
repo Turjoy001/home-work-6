@@ -1,0 +1,154 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+}
+.class_topic_1{
+    background: linear-gradient(to right,#ff8079, white,#ff8079);
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+    display: flex;
+}
+.class_topic_2{
+    background: linear-gradient(to right, red,white);
+    width: 100%;
+    height: 40px;
+}
+.class_topic_3{
+    background-color: white;
+    width: 100%;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.class_topic_4{
+    background: linear-gradient(to right,rgb(255, 255, 255),white,rgb(255, 255, 255));
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.class_topic_5{
+    background-color: white;
+    width: 20%;
+    height: 80px;
+    align-items: center;
+    display: flex;
+    font-size: x-large; 
+}
+.class_topic_6{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+.class_topic_7{
+    background: linear-gradient(to right,rgb(255, 255, 255),white);
+    width: 40%;
+    height: 430px;
+}
+.class_topic_8{
+    background-color: white;
+    width: 45%;
+    height: 340px;
+    background: url(https://www.creativeitinstitute.com/images/banner1667976882.jpg);
+    background-size: 100%;
+    border-radius: 15px;
+}
+.class_topic_9{
+    background-color: white;
+    width: 40%;
+    height: 80px;
+    background-size: 100%;
+}
+.class_topic_10{
+    background-color: white;
+    width: 60%;
+    height: 80px;
+    text-align: center;
+    font-size: x-large;
+}
+.class_topic_10{
+    background-color: white;
+    width: 25%;
+    height: 40px;
+    font-size: x-large;
+    text-align: center;
+}
+.class_item_1{
+    font-size: 35px;
+    width: 100%;
+    height: 100px;   
+}
+.class_item_2{
+    color: red;
+    font-size: 40px;
+    width: 100%;
+    height: 80px;  
+}
+.class_item_3{
+    font-size: 20px;
+    width: 100%;
+    height: 120px;  
+}
+.class_item_4{
+    width: 100%;
+    height: 80px;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;    
+}
+#class_item_5{
+    background: linear-gradient(to right, #ff1e1e 59.38%,#ff8079);
+    width: 40%;
+    height: 40px;
+    border-radius: 10px;
+    font-size: x-large;
+    text-align: center;
+}
+#class_item_1{
+    font-size: 20px;
+    width: 100%;
+    height: 50px;   
+}
+.class_item_6{
+    color: white;
+    background: linear-gradient(to right, #ff1e1e 59.38%,#ff8079);
+    width: 40%;
+    height: 50px;
+    border-radius: 10px;
+    font-size: x-large;
+    text-align: center;
+    transition: 3s;
+}
+.class_item_6:hover{
+    width: 100%;
+}
+
+a{
+    text-decoration:none;
+    color:rgb(44, 30, 30);
+    font-size:25px;
+    transition: 0.10ms;
+    padding:40px;
+
+}
+
+a:hover{
+    background-color:rgb(253, 50, 50);
+    color:aliceblue;
+    border-radius:15px;
+    transition: 2s;
+    
+}
+
+ul{
+    list-style-type:none;
+    
+}
+
+
+
